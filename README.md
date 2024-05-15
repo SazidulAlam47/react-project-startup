@@ -1,10 +1,10 @@
-# React Project Startup Template
+# React Project Startup Script
 
-Welcome to the React Project Startup Template! This template offers a streamlined setup for initiating a new React project with essential dependencies and configurations. Designed to enhance productivity, this template equips you with commonly used tools, enabling swift development from the get-go.
+Welcome to the React Project Startup Script! This template offers a streamlined setup for initiating a new React project with essential dependencies and configurations. Designed to enhance productivity, this template equips you with commonly used tools, enabling swift development from the get-go.
 
 ## Overview
 
-This template is meticulously crafted to simplify the process of launching a new React project. By providing pre-configured settings and incorporating fundamental dependencies, it aims to expedite project initiation. Notable inclusions are React Router DOM for seamless routing, Tailwind CSS for efficient styling, Axios for versatile HTTP requests, and React Query for streamlined data fetching, among others.
+This script is meticulously crafted to simplify the process of launching a new React project. By providing pre-configured settings and incorporating fundamental dependencies, it aims to expedite project initiation. Notable inclusions are React Router DOM for seamless routing, Tailwind CSS for efficient styling, Axios for versatile HTTP requests, and React Query for streamlined data fetching, among others.
 
 ## Getting Started
 
