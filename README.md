@@ -1,6 +1,6 @@
 # React Project Startup Script
 
-Welcome to the React Project Startup Script! This template offers a streamlined setup for initiating a new React project with essential dependencies and configurations. Designed to enhance productivity, this template equips you with commonly used tools, enabling swift development from the get-go.
+Welcome to the React Project Startup Script! This script offers a streamlined setup for initiating a new React project with essential dependencies and configurations. Designed to enhance productivity, this script equips you with commonly used tools, enabling swift development from the get-go.
 
 ## Overview
 
@@ -46,7 +46,7 @@ This script is meticulously crafted to simplify the process of launching a new R
 
 ## Project Structure
 
-The template adheres to a structured layout commonly observed in React applications, facilitating organization and maintainability:
+The script adheres to a structured layout commonly observed in React applications, facilitating organization and maintainability:
 
 -   **src:** Houses the core source code of the application.
 
