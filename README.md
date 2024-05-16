@@ -8,32 +8,103 @@ This script is meticulously crafted to simplify the process of launching a new R
 
 ## Getting Started
 
-1. Clone this repository to your local machine or download it:
+### Windows :
+
+1. **Ensure Node.js is installed on your system.**
+
+    - If not installed, download and install it from [here](https://nodejs.org/en).
+
+2. **Clone or download this repository:**
 
     ```sh
     git clone https://github.com/SazidulAlam47/react-project-startup.git
     ```
 
-2. Copy the `create-react-project.cmd` to the desired directory where you intend to create your React project.
+3. **Copy the `create_react_project_windows.cmd` script to your desired directory where you intend to create your React project.**
 
-3. Double-click `create-react-project.cmd` to execute it. Enter your desired project name when prompted and press Enter.
+4. **Execute the script:**
 
-4. Sit back and relax as the script automates the setup process for you. Upon completion, your default code editor will launch, allowing you to delve straight into development.
+    - Double-click `create_react_project_windows.cmd`.
+    - Enter your desired project name when prompted and press Enter.
 
-### Note:
+5. **Sit back and relax:**
 
--   This setup script currently works only on Windows.
--   Feel free to edit the source code according to your need.
+    - The script will automate the setup process for you.
+    - Upon completion, VS Code will launch, allowing you to start development.
+
+### Linux :
+
+1. **Ensure npm is installed on your system.**
+
+    - If not installed, install npm using the following command:
+
+        ```sh
+        sudo apt install npm -y
+        ```
+
+2. **Clone or download this repository:**
+
+    ```sh
+    git clone https://github.com/SazidulAlam47/react-project-startup.git
+    ```
+
+3. **Copy the `create_react_project_linux.sh` script to your desired directory where you intend to create your React project.**
+
+4. **Execute the script:**
+
+    - Open your terminal in the same directory.
+    - Run the following commands:
+
+        ```sh
+        chmod +x create_react_project_linux.sh
+        ```
+
+        ```sh
+        ./create_react_project_linux.sh
+        ```
+
+    - Enter your desired project name when prompted and press Enter.
+
+5. **Sit back and relax:**
+
+    - The script will automate the setup process for you.
+    - Upon completion, VS Code will launch, allowing you to start development.
+
+### Mac :
+
+1. **Ensure Node.js is installed on your system.**
+
+    - If not installed, download and install it from [here](https://nodejs.org/en).
+
+2. **Clone or download this repository:**
+
+    ```sh
+    git clone https://github.com/SazidulAlam47/react-project-startup.git
+    ```
+
+3. **Copy the `create_react_project_mac.sh` script to your desired directory where you intend to create your React project.**
+
+4. **Execute the script:**
+
+    - Open your terminal in the same directory.
+    - Run the following command:
+
+        ```sh
+        bash create_react_project_mac.sh
+        ```
+
+    - Enter your desired project name when prompted and press Enter.
+
+5. **Sit back and relax:**
+
+    - The script will automate the setup process for you, ensuring a hassle-free experience.
+    - Once the setup is complete, the development server will automatically launch.
+    - You can then open the project in your preferred code editor and begin your work seamlessly.
 
 ## Dependencies Installed
 
 -   React Router DOM
--   LocalForage
--   Match Sorter
--   Sort By
 -   Tailwind CSS
--   PostCSS
--   Autoprefixer
 -   DaisyUI
 -   PropTypes
 -   React Icons
@@ -43,6 +114,8 @@ This script is meticulously crafted to simplify the process of launching a new R
 -   SweetAlert2
 -   React Toastify
 -   React Hot Toast
+
+These dependencies are carefully selected to provide a robust foundation for your React project, enhancing functionality and facilitating smooth development.
 
 ## Project Structure
 
@@ -61,3 +134,5 @@ The script adheres to a structured layout commonly observed in React application
     -   **routes:** Stores routing configurations and private routes.
 
 This structured approach fosters clarity and scalability, ensuring a smooth development experience throughout your project's lifecycle.
+
+**Note:** Feel free to edit the source code according to your need.
